@@ -29,6 +29,6 @@
   {"id":28, "title":"wallet Connect", "price":10, "repeatable":false, "active":true},
   {"id":29, "title":"+5M Coubers Like & RT", "price":10, "repeatable":true, "active":false},
   {"id":30, "title":"Master of highload", "price":25, "repeatable":true, "active":false},
-  {"id":32, "title":"#CoubTrending Like & RT", "price":10, "repeatable":true, "active":true},
+  {"id":32, "title":"#CoubTrending Like & RT", "price":10, "repeatable":true, "active":false},
   {"id":33, "title":"referral bonus", "price":0, "repeatable":false, "active":false}
 ]
