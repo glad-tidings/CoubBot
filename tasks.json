@@ -27,8 +27,10 @@
   {"id":26, "title":"Like 5 Sports Coubs", "price":5, "repeatable":true, "active":false},
   {"id":27, "title":"Holder Reward", "price":10, "repeatable":true, "active":false},
   {"id":28, "title":"wallet Connect", "price":10, "repeatable":false, "active":true},
-  {"id":29, "title":"+5M Coubers Like & RT", "price":10, "repeatable":true, "active":false},
-  {"id":30, "title":"Master of highload", "price":25, "repeatable":true, "active":false},
-  {"id":32, "title":"#CoubTrending Like & RT", "price":10, "repeatable":true, "active":false},
-  {"id":33, "title":"referral bonus", "price":0, "repeatable":false, "active":false}
+  {"id":29, "title":"+5M Coubers Like & RT", "price":10, "repeatable":false, "active":false},
+  {"id":30, "title":"Master of highload", "price":25, "repeatable":false, "active":false},
+  {"id":32, "title":"#CoubTrending Like & RT", "price":10, "repeatable":false, "active":false},
+  {"id":33, "title":"referral bonus", "price":0, "repeatable":false, "active":false},
+  {"id":34, "title":"tasks.referral.rt", "price":0, "repeatable":false, "active":true},
+  {"id":35, "title":"tasks.say.coub", "price":0, "repeatable":false, "active":false}
 ]
