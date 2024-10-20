@@ -1,6 +1,9 @@
 # CoubBot
 CoubBOT is a bot to automate specific tasks using coub accounts.
 
+## ⚠️Warning
+I am not responsible for your account. Please consider the potential risks before using this bot.
+
 ## Features
 | Feature                   | Supported |
 | :------------------------ | :-------- |
