@@ -11,7 +11,7 @@ I am not responsible for your account. Please consider the potential risks befor
 | Auto Claim Task           | ✅        |
 
 ## Settings
-open project in visual studio ([Download Visual Studio Code](https://code.visualstudio.com/download)) and open data.txt add query_id of each account in new line and build or start project ([Get Telegram MiniGame Query ID using Chrome](https://youtu.be/r0Ulqev-9M4))
+open project in visual studio ([Download Visual Studio Express](https://visualstudio.microsoft.com/vs/express/)) and open data.txt add query_id of each account in new line and build or start project ([Get Telegram MiniGame Query ID using Chrome](https://youtu.be/r0Ulqev-9M4))
 
 ## ☕Buy me a coffee
 ```
