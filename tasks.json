@@ -34,7 +34,7 @@
   {"id":34, "title":"Share Referral Daily", "price":0, "repeatable":false, "active":true},
   {"id":35, "title":"Say Coub", "price":0, "repeatable":false, "active":false},
   {"id":36, "title":"Pump Like & RT", "price":0, "repeatable":false, "active":true},
-  {"id":37, "title":"PUMP - make 1 trade", "price":0, "repeatable":false, "active":true},
+  {"id":37, "title":"PUMP - make 1 trade", "price":0, "repeatable":false, "active":false},
   {"id":39, "title":"Watch Hallowe'en", "price":0, "repeatable":false, "active":false},
   {"id":40, "title":"Connect Bitget Wallet", "price":0, "repeatable":false, "active":true}
 ]
