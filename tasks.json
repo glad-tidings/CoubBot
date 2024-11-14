@@ -9,7 +9,7 @@
   {"id":8, "title":"Complete Onboarding", "price":100, "repeatable":false, "active":true},
   {"id":9, "title":"Follow on YouTub", "price":10, "repeatable":false, "active":false},
   {"id":10, "title":"Vote Probably", "price":25, "repeatable":false, "active":false},
-  {"id":11, "title":"Vote Bonus", "price":25, "repeatable":false, "active":false},
+  {"id":11, "title":"Vote Reward Probably", "price":25, "repeatable":false, "active":false},
   {"id":12, "title":"Watch 25 Random Coubs", "price":10, "repeatable":true, "active":true},
   {"id":13, "title":"Watch 25 Rising Coubs", "price":10, "repeatable":true, "active":true},
   {"id":14, "title":"Watch 25 Recommended Coubs", "price":10, "repeatable":true, "active":true},
@@ -17,7 +17,7 @@
   {"id":16, "title":"Like 5 Rising Coubs", "price":5, "repeatable":true, "active":true},
   {"id":17, "title":"Like 5 Recommended Coubs", "price":5, "repeatable":true, "active":true},
   {"id":18, "title":"Share WTF Story", "price":30, "repeatable":false, "active":true},
-  {"id":19, "title":"Share Story", "price":5, "repeatable":true, "active":true},
+  {"id":19, "title":"Share Story", "price":5, "repeatable":true, "active":false},
   {"id":20, "title":"Like & Share #FreeDurov", "price":50, "repeatable":false, "active":false},
   {"id":21, "title":"#Oasis Like & Retweet", "price":5, "repeatable":false, "active":false},
   {"id":22, "title":"#BratSummer Create Coub", "price":25, "repeatable":false, "active":false},
@@ -30,7 +30,11 @@
   {"id":29, "title":"+5M Coubers Like & RT", "price":10, "repeatable":false, "active":false},
   {"id":30, "title":"Master of highload", "price":25, "repeatable":false, "active":false},
   {"id":32, "title":"#CoubTrending Like & RT", "price":10, "repeatable":false, "active":false},
-  {"id":33, "title":"referral bonus", "price":0, "repeatable":false, "active":false},
-  {"id":34, "title":"tasks.referral.rt", "price":0, "repeatable":false, "active":true},
-  {"id":35, "title":"tasks.say.coub", "price":0, "repeatable":false, "active":false}
+  {"id":33, "title":"Referral Bonus", "price":0, "repeatable":false, "active":false},
+  {"id":34, "title":"Share Referral Daily", "price":0, "repeatable":false, "active":true},
+  {"id":35, "title":"Say Coub", "price":0, "repeatable":false, "active":false},
+  {"id":36, "title":"Pump Like & RT", "price":0, "repeatable":false, "active":true},
+  {"id":37, "title":"PUMP - make 1 trade", "price":0, "repeatable":false, "active":true},
+  {"id":39, "title":"Watch Hallowe'en", "price":0, "repeatable":false, "active":false},
+  {"id":40, "title":"Connect Bitget Wallet", "price":0, "repeatable":false, "active":true}
 ]
