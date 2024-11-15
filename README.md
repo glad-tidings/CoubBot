@@ -10,8 +10,11 @@ I am not responsible for your account. Please consider the potential risks befor
 | Multithreading            | ✅        |
 | Auto Claim Task           | ✅        |
 
+## Releases
+[Download BOT](https://github.com/glad-tidings/CoubBot/releases)
+
 ## Settings
-open project in visual studio ([Download Visual Studio Express](https://visualstudio.microsoft.com/vs/express/)) and open data.txt add query_id of each account in new line and build or start project ([Get Telegram MiniGame Query ID using Chrome](https://youtu.be/r0Ulqev-9M4))
+Open data.txt add query_id of each account in new line
 
 ## QueryID Script
 Script to request query_id of all your Telegram accounts for any mini Telegram Bot App ==> [TelegramMiniAppQueryID](https://github.com/glad-tidings/TelegramMiniAppQueryID)
